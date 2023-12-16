@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dane McBeth-inspirerad webbplats</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Hem</a></li>
+        <li><a href="#about">Om</a></li>
+        <li><a href="#portfolio">Portfölj</a></li>
+        <li><a href="#contact">Kontakt</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home">
+      <h1>Välkommen till min webbplats</h1>
+      <p>En enkel webbplats inspirerad av Dane McBeth.</p>
+    </section>
+
+    <section id="about">
+      <h2>Om mig</h2>
+      <p>Här kan du skriva några rader om dig själv och din passion för webbutveckling.</p>
+    </section>
+
+    <section id="portfolio">
+      <h2>Portfölj</h2>
+      <p>Visa upp dina projekt och arbete här.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Kontakt</h2>
+      <p>Kontaktuppgifter och formulär för att nå dig.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 - Inspirerad av Dane McBeth</p>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
